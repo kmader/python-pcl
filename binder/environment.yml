@@ -4,7 +4,7 @@ channels:
   - defaults
   - ccordoba12
 dependencies:
-  - python
+  - python==2.7
   - numpy
   - matplotlib
   - pandas
