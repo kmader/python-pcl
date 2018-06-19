@@ -2,6 +2,7 @@ name: pcl
 channels:
   - conda-forge
   - defaults
+  - sirokujira
 dependencies:
   - python=3.6
   - numpy
@@ -10,6 +11,7 @@ dependencies:
   - notebook>=5.2.2
   - ipywidgets>=6.0.1
   - ipython>=6.2.1
+  - python-pcl
+  - pcl
   - pip:
     - appmode
-    - cython==0.25.2
