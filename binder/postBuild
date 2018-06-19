@@ -1,6 +1,6 @@
-sudo add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl -y
-sudo apt-get update -y
-sudo apt-get install libpcl-all -y
+add-apt-repository ppa:v-launchpad-jochen-sprickerhof-de/pcl -y
+apt-get update -y
+apt-get install libpcl-all -y
 
 python setup.py build_ext -i
 python setup.py install
