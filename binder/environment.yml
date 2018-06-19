@@ -2,7 +2,7 @@ name: pcl
 channels:
   - conda-forge
   - defaults
-  - sirokujira
+  - ccordoba12
 dependencies:
   - python=3.6
   - numpy
