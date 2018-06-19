@@ -16,6 +16,8 @@
 
     <div align="center"><img src="docs/image/pcl_logo_958x309.png" width="309"/></div>
 
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/kmader/python-pcl/master
+
 Introduction
 ============
 
