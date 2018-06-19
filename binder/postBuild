@@ -1,0 +1,6 @@
+apt-get install -y software-properties-common
+add-apt-repository -y ppa:v-launchpad-jochen-sprickerhof-de/pcl
+apt install libpcl-dev
+# install python-pcl
+python setup.py build_ext -i
+python setup.py install
